@@ -16,7 +16,7 @@ public class Task1 {
             }
 
         } catch (Exception e) {
-            System.out.println("Попробуйте еще раз. Введите целое число!");
+            System.out.println("Попробуйте еще раз!");
         }
     }
 }

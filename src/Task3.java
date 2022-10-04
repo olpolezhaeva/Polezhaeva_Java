@@ -32,7 +32,7 @@ public class Task3 {
             System.out.println("Это пустой массив!");
 
         } catch (Exception e) {
-            System.out.println("Попробуйте еще раз. Вводите целые числа через пробел!");
+            System.out.println("Попробуйте еще раз!");
         }
     }
 }
